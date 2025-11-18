@@ -1,8 +1,10 @@
 # Folder
 .vs/
 data_collection/
-.DS_Store
+.ipynb_checkpoints/
+
 
 # File
 Test.ipynb
 .cache.sqlite
+.DS_Store
